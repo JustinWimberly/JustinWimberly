@@ -8,7 +8,7 @@ What You'll Find Here
 
 Projects: Explore my repositories to see my journey through various programming challenges, personal projects, and collaborative endeavors.
 
-Languages: I predominantly work with C++, Python, x86 MASM Assembly and Swift, but I'm always eager to explore new languages and technologies.
+Languages: I predominantly work with C++, Python, Swift and some x86 MASM Assembly , but I'm always eager to explore new languages and technologies.
 
 Learning: Join me as I document my learning process, sharing insights, tips, and resources that I find valuable along the way.
 ------------------------- 
