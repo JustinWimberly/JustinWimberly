@@ -15,6 +15,6 @@ Learning: Join me as I document my learning process, sharing insights, tips, and
 
 Let's Connect 🌐
 
-Feel free to reach out if you have any questions, suggestions, or just want to chat! You can connect with me on [LinkedIn](www.linkedin.com/in/justinwimberly).
+Feel free to reach out if you have any questions, suggestions, or just want to chat! You can connect with me on LinkedIn.
 
 Thanks for stopping by! 🚀
